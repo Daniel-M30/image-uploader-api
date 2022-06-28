@@ -1,1 +1,1 @@
-# Image-Uploader-API
+# Image Uploader - API
